@@ -10,4 +10,6 @@ The channels are:
 | 228 | 0   | DAC 0     |
 | 229 | 0   | DAC 1     |
 
+Firmware generated with Vivado version 2020.2
 
+Prerequisites:  in <code>jupyter_notebooks</code> directory
